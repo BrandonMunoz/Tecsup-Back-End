@@ -1,0 +1,10 @@
+C:\Users\Tecsup\source\repos\S3D11\bucle6\obj\Debug\netcoreapp2.1\bucle6.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\source\repos\S3D11\bucle6\obj\Debug\netcoreapp2.1\bucle6.AssemblyInfoInputs.cache
+C:\Users\Tecsup\source\repos\S3D11\bucle6\obj\Debug\netcoreapp2.1\bucle6.AssemblyInfo.cs
+C:\Users\Tecsup\source\repos\S3D11\bucle6\bin\Debug\netcoreapp2.1\bucle6.deps.json
+C:\Users\Tecsup\source\repos\S3D11\bucle6\bin\Debug\netcoreapp2.1\bucle6.runtimeconfig.json
+C:\Users\Tecsup\source\repos\S3D11\bucle6\bin\Debug\netcoreapp2.1\bucle6.runtimeconfig.dev.json
+C:\Users\Tecsup\source\repos\S3D11\bucle6\bin\Debug\netcoreapp2.1\bucle6.dll
+C:\Users\Tecsup\source\repos\S3D11\bucle6\bin\Debug\netcoreapp2.1\bucle6.pdb
+C:\Users\Tecsup\source\repos\S3D11\bucle6\obj\Debug\netcoreapp2.1\bucle6.dll
+C:\Users\Tecsup\source\repos\S3D11\bucle6\obj\Debug\netcoreapp2.1\bucle6.pdb

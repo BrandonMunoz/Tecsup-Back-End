@@ -1,0 +1,21 @@
+C:\Users\Tecsup\source\repos\S3D11\bucle3\obj\Debug\netcoreapp2.1\bucle3.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\source\repos\S3D11\bucle3\obj\Debug\netcoreapp2.1\bucle3.AssemblyInfoInputs.cache
+C:\Users\Tecsup\source\repos\S3D11\bucle3\obj\Debug\netcoreapp2.1\bucle3.AssemblyInfo.cs
+C:\Users\Tecsup\source\repos\S3D11\bucle3\bin\Debug\netcoreapp2.1\bucle3.deps.json
+C:\Users\Tecsup\source\repos\S3D11\bucle3\bin\Debug\netcoreapp2.1\bucle3.runtimeconfig.json
+C:\Users\Tecsup\source\repos\S3D11\bucle3\bin\Debug\netcoreapp2.1\bucle3.runtimeconfig.dev.json
+C:\Users\Tecsup\source\repos\S3D11\bucle3\bin\Debug\netcoreapp2.1\bucle3.dll
+C:\Users\Tecsup\source\repos\S3D11\bucle3\bin\Debug\netcoreapp2.1\bucle3.pdb
+C:\Users\Tecsup\source\repos\S3D11\bucle3\obj\Debug\netcoreapp2.1\bucle3.dll
+C:\Users\Tecsup\source\repos\S3D11\bucle3\obj\Debug\netcoreapp2.1\bucle3.pdb
+D:\CodiGo backend\S3D11\bucle3\bin\Debug\netcoreapp2.1\bucle3.deps.json
+D:\CodiGo backend\S3D11\bucle3\bin\Debug\netcoreapp2.1\bucle3.runtimeconfig.json
+D:\CodiGo backend\S3D11\bucle3\bin\Debug\netcoreapp2.1\bucle3.runtimeconfig.dev.json
+D:\CodiGo backend\S3D11\bucle3\bin\Debug\netcoreapp2.1\bucle3.dll
+D:\CodiGo backend\S3D11\bucle3\bin\Debug\netcoreapp2.1\bucle3.pdb
+D:\CodiGo backend\S3D11\bucle3\obj\Debug\netcoreapp2.1\bucle3.csprojAssemblyReference.cache
+D:\CodiGo backend\S3D11\bucle3\obj\Debug\netcoreapp2.1\bucle3.csproj.CoreCompileInputs.cache
+D:\CodiGo backend\S3D11\bucle3\obj\Debug\netcoreapp2.1\bucle3.AssemblyInfoInputs.cache
+D:\CodiGo backend\S3D11\bucle3\obj\Debug\netcoreapp2.1\bucle3.AssemblyInfo.cs
+D:\CodiGo backend\S3D11\bucle3\obj\Debug\netcoreapp2.1\bucle3.dll
+D:\CodiGo backend\S3D11\bucle3\obj\Debug\netcoreapp2.1\bucle3.pdb

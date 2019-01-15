@@ -1,0 +1,11 @@
+c:\users\tecsup\source\repos\S3D11\S3D11\bin\Debug\netcoreapp2.1\S3D11.deps.json
+c:\users\tecsup\source\repos\S3D11\S3D11\bin\Debug\netcoreapp2.1\S3D11.runtimeconfig.json
+c:\users\tecsup\source\repos\S3D11\S3D11\bin\Debug\netcoreapp2.1\S3D11.runtimeconfig.dev.json
+c:\users\tecsup\source\repos\S3D11\S3D11\bin\Debug\netcoreapp2.1\S3D11.dll
+c:\users\tecsup\source\repos\S3D11\S3D11\bin\Debug\netcoreapp2.1\S3D11.pdb
+c:\users\tecsup\source\repos\S3D11\S3D11\obj\Debug\netcoreapp2.1\S3D11.csprojAssemblyReference.cache
+c:\users\tecsup\source\repos\S3D11\S3D11\obj\Debug\netcoreapp2.1\S3D11.csproj.CoreCompileInputs.cache
+c:\users\tecsup\source\repos\S3D11\S3D11\obj\Debug\netcoreapp2.1\S3D11.AssemblyInfoInputs.cache
+c:\users\tecsup\source\repos\S3D11\S3D11\obj\Debug\netcoreapp2.1\S3D11.AssemblyInfo.cs
+c:\users\tecsup\source\repos\S3D11\S3D11\obj\Debug\netcoreapp2.1\S3D11.dll
+c:\users\tecsup\source\repos\S3D11\S3D11\obj\Debug\netcoreapp2.1\S3D11.pdb
