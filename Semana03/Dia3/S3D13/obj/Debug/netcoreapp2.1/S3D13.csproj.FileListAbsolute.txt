@@ -1,0 +1,11 @@
+D:\CodiGo backend\S3D13\S3D13\bin\Debug\netcoreapp2.1\S3D13.deps.json
+D:\CodiGo backend\S3D13\S3D13\bin\Debug\netcoreapp2.1\S3D13.runtimeconfig.json
+D:\CodiGo backend\S3D13\S3D13\bin\Debug\netcoreapp2.1\S3D13.runtimeconfig.dev.json
+D:\CodiGo backend\S3D13\S3D13\bin\Debug\netcoreapp2.1\S3D13.dll
+D:\CodiGo backend\S3D13\S3D13\bin\Debug\netcoreapp2.1\S3D13.pdb
+D:\CodiGo backend\S3D13\S3D13\obj\Debug\netcoreapp2.1\S3D13.csprojAssemblyReference.cache
+D:\CodiGo backend\S3D13\S3D13\obj\Debug\netcoreapp2.1\S3D13.csproj.CoreCompileInputs.cache
+D:\CodiGo backend\S3D13\S3D13\obj\Debug\netcoreapp2.1\S3D13.AssemblyInfoInputs.cache
+D:\CodiGo backend\S3D13\S3D13\obj\Debug\netcoreapp2.1\S3D13.AssemblyInfo.cs
+D:\CodiGo backend\S3D13\S3D13\obj\Debug\netcoreapp2.1\S3D13.dll
+D:\CodiGo backend\S3D13\S3D13\obj\Debug\netcoreapp2.1\S3D13.pdb

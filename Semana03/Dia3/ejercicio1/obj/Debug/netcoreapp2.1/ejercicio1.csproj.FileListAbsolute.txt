@@ -1,0 +1,11 @@
+D:\CodiGo backend\S3D13\ejercicio1\obj\Debug\netcoreapp2.1\ejercicio1.csprojAssemblyReference.cache
+D:\CodiGo backend\S3D13\ejercicio1\obj\Debug\netcoreapp2.1\ejercicio1.csproj.CoreCompileInputs.cache
+D:\CodiGo backend\S3D13\ejercicio1\obj\Debug\netcoreapp2.1\ejercicio1.AssemblyInfoInputs.cache
+D:\CodiGo backend\S3D13\ejercicio1\obj\Debug\netcoreapp2.1\ejercicio1.AssemblyInfo.cs
+D:\CodiGo backend\S3D13\ejercicio1\bin\Debug\netcoreapp2.1\ejercicio1.deps.json
+D:\CodiGo backend\S3D13\ejercicio1\bin\Debug\netcoreapp2.1\ejercicio1.runtimeconfig.json
+D:\CodiGo backend\S3D13\ejercicio1\bin\Debug\netcoreapp2.1\ejercicio1.runtimeconfig.dev.json
+D:\CodiGo backend\S3D13\ejercicio1\bin\Debug\netcoreapp2.1\ejercicio1.dll
+D:\CodiGo backend\S3D13\ejercicio1\bin\Debug\netcoreapp2.1\ejercicio1.pdb
+D:\CodiGo backend\S3D13\ejercicio1\obj\Debug\netcoreapp2.1\ejercicio1.dll
+D:\CodiGo backend\S3D13\ejercicio1\obj\Debug\netcoreapp2.1\ejercicio1.pdb
