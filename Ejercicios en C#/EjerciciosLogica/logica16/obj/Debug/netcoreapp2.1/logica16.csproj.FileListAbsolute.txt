@@ -1,0 +1,10 @@
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica16\bin\Debug\netcoreapp2.1\logica16.deps.json
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica16\bin\Debug\netcoreapp2.1\logica16.runtimeconfig.json
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica16\bin\Debug\netcoreapp2.1\logica16.runtimeconfig.dev.json
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica16\bin\Debug\netcoreapp2.1\logica16.dll
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica16\bin\Debug\netcoreapp2.1\logica16.pdb
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica16\obj\Debug\netcoreapp2.1\logica16.csproj.CoreCompileInputs.cache
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica16\obj\Debug\netcoreapp2.1\logica16.AssemblyInfoInputs.cache
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica16\obj\Debug\netcoreapp2.1\logica16.AssemblyInfo.cs
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica16\obj\Debug\netcoreapp2.1\logica16.dll
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica16\obj\Debug\netcoreapp2.1\logica16.pdb

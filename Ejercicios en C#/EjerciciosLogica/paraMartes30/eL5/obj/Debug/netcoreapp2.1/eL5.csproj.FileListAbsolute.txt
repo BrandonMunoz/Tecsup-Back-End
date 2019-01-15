@@ -1,0 +1,10 @@
+D:\CodiGo backend\S4D15\eLogica\paraMartes30\eL5\bin\Debug\netcoreapp2.1\eL5.deps.json
+D:\CodiGo backend\S4D15\eLogica\paraMartes30\eL5\bin\Debug\netcoreapp2.1\eL5.runtimeconfig.json
+D:\CodiGo backend\S4D15\eLogica\paraMartes30\eL5\bin\Debug\netcoreapp2.1\eL5.runtimeconfig.dev.json
+D:\CodiGo backend\S4D15\eLogica\paraMartes30\eL5\bin\Debug\netcoreapp2.1\eL5.dll
+D:\CodiGo backend\S4D15\eLogica\paraMartes30\eL5\bin\Debug\netcoreapp2.1\eL5.pdb
+D:\CodiGo backend\S4D15\eLogica\paraMartes30\eL5\obj\Debug\netcoreapp2.1\eL5.csproj.CoreCompileInputs.cache
+D:\CodiGo backend\S4D15\eLogica\paraMartes30\eL5\obj\Debug\netcoreapp2.1\eL5.AssemblyInfoInputs.cache
+D:\CodiGo backend\S4D15\eLogica\paraMartes30\eL5\obj\Debug\netcoreapp2.1\eL5.AssemblyInfo.cs
+D:\CodiGo backend\S4D15\eLogica\paraMartes30\eL5\obj\Debug\netcoreapp2.1\eL5.dll
+D:\CodiGo backend\S4D15\eLogica\paraMartes30\eL5\obj\Debug\netcoreapp2.1\eL5.pdb

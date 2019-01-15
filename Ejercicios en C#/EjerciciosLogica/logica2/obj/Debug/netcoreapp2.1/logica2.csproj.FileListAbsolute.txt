@@ -1,0 +1,11 @@
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica2\bin\Debug\netcoreapp2.1\logica2.deps.json
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica2\bin\Debug\netcoreapp2.1\logica2.runtimeconfig.json
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica2\bin\Debug\netcoreapp2.1\logica2.runtimeconfig.dev.json
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica2\bin\Debug\netcoreapp2.1\logica2.dll
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica2\bin\Debug\netcoreapp2.1\logica2.pdb
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica2\obj\Debug\netcoreapp2.1\logica2.csproj.CoreCompileInputs.cache
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica2\obj\Debug\netcoreapp2.1\logica2.AssemblyInfoInputs.cache
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica2\obj\Debug\netcoreapp2.1\logica2.AssemblyInfo.cs
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica2\obj\Debug\netcoreapp2.1\logica2.dll
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica2\obj\Debug\netcoreapp2.1\logica2.pdb
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica2\obj\Debug\netcoreapp2.1\logica2.csprojAssemblyReference.cache

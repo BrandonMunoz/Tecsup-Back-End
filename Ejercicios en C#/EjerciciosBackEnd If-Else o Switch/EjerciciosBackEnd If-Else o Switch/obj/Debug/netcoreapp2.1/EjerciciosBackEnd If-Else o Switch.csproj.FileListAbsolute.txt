@@ -1,0 +1,11 @@
+c:\users\tecsup\source\repos\EjerciciosBackEnd If-Else o Switch\EjerciciosBackEnd If-Else o Switch\bin\Debug\netcoreapp2.1\EjerciciosBackEnd If-Else o Switch.deps.json
+c:\users\tecsup\source\repos\EjerciciosBackEnd If-Else o Switch\EjerciciosBackEnd If-Else o Switch\bin\Debug\netcoreapp2.1\EjerciciosBackEnd If-Else o Switch.runtimeconfig.json
+c:\users\tecsup\source\repos\EjerciciosBackEnd If-Else o Switch\EjerciciosBackEnd If-Else o Switch\bin\Debug\netcoreapp2.1\EjerciciosBackEnd If-Else o Switch.runtimeconfig.dev.json
+c:\users\tecsup\source\repos\EjerciciosBackEnd If-Else o Switch\EjerciciosBackEnd If-Else o Switch\bin\Debug\netcoreapp2.1\EjerciciosBackEnd If-Else o Switch.dll
+c:\users\tecsup\source\repos\EjerciciosBackEnd If-Else o Switch\EjerciciosBackEnd If-Else o Switch\bin\Debug\netcoreapp2.1\EjerciciosBackEnd If-Else o Switch.pdb
+c:\users\tecsup\source\repos\EjerciciosBackEnd If-Else o Switch\EjerciciosBackEnd If-Else o Switch\obj\Debug\netcoreapp2.1\EjerciciosBackEnd If-Else o Switch.csprojAssemblyReference.cache
+c:\users\tecsup\source\repos\EjerciciosBackEnd If-Else o Switch\EjerciciosBackEnd If-Else o Switch\obj\Debug\netcoreapp2.1\EjerciciosBackEnd If-Else o Switch.csproj.CoreCompileInputs.cache
+c:\users\tecsup\source\repos\EjerciciosBackEnd If-Else o Switch\EjerciciosBackEnd If-Else o Switch\obj\Debug\netcoreapp2.1\EjerciciosBackEnd If-Else o Switch.AssemblyInfoInputs.cache
+c:\users\tecsup\source\repos\EjerciciosBackEnd If-Else o Switch\EjerciciosBackEnd If-Else o Switch\obj\Debug\netcoreapp2.1\EjerciciosBackEnd If-Else o Switch.AssemblyInfo.cs
+c:\users\tecsup\source\repos\EjerciciosBackEnd If-Else o Switch\EjerciciosBackEnd If-Else o Switch\obj\Debug\netcoreapp2.1\EjerciciosBackEnd If-Else o Switch.dll
+c:\users\tecsup\source\repos\EjerciciosBackEnd If-Else o Switch\EjerciciosBackEnd If-Else o Switch\obj\Debug\netcoreapp2.1\EjerciciosBackEnd If-Else o Switch.pdb

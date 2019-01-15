@@ -1,0 +1,10 @@
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica12y13\obj\Debug\netcoreapp2.1\logica12y13.csproj.CoreCompileInputs.cache
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica12y13\obj\Debug\netcoreapp2.1\logica12y13.AssemblyInfoInputs.cache
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica12y13\obj\Debug\netcoreapp2.1\logica12y13.AssemblyInfo.cs
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica12y13\bin\Debug\netcoreapp2.1\logica12y13.deps.json
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica12y13\bin\Debug\netcoreapp2.1\logica12y13.runtimeconfig.json
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica12y13\bin\Debug\netcoreapp2.1\logica12y13.runtimeconfig.dev.json
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica12y13\bin\Debug\netcoreapp2.1\logica12y13.dll
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica12y13\bin\Debug\netcoreapp2.1\logica12y13.pdb
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica12y13\obj\Debug\netcoreapp2.1\logica12y13.dll
+F:\CodiGo\BackEnd Pincipiante\EjerciciosLogicaPresentarMartes31\EjerciciosLogica\logica12y13\obj\Debug\netcoreapp2.1\logica12y13.pdb
