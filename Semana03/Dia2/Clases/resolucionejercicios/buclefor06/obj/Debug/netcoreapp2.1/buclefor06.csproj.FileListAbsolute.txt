@@ -1,0 +1,11 @@
+D:\CodiGo backend\S3D12\Clases\resolucionejercicios\buclefor06\bin\Debug\netcoreapp2.1\buclefor06.deps.json
+D:\CodiGo backend\S3D12\Clases\resolucionejercicios\buclefor06\bin\Debug\netcoreapp2.1\buclefor06.runtimeconfig.json
+D:\CodiGo backend\S3D12\Clases\resolucionejercicios\buclefor06\bin\Debug\netcoreapp2.1\buclefor06.runtimeconfig.dev.json
+D:\CodiGo backend\S3D12\Clases\resolucionejercicios\buclefor06\bin\Debug\netcoreapp2.1\buclefor06.dll
+D:\CodiGo backend\S3D12\Clases\resolucionejercicios\buclefor06\bin\Debug\netcoreapp2.1\buclefor06.pdb
+D:\CodiGo backend\S3D12\Clases\resolucionejercicios\buclefor06\obj\Debug\netcoreapp2.1\buclefor06.csprojAssemblyReference.cache
+D:\CodiGo backend\S3D12\Clases\resolucionejercicios\buclefor06\obj\Debug\netcoreapp2.1\buclefor06.csproj.CoreCompileInputs.cache
+D:\CodiGo backend\S3D12\Clases\resolucionejercicios\buclefor06\obj\Debug\netcoreapp2.1\buclefor06.AssemblyInfoInputs.cache
+D:\CodiGo backend\S3D12\Clases\resolucionejercicios\buclefor06\obj\Debug\netcoreapp2.1\buclefor06.AssemblyInfo.cs
+D:\CodiGo backend\S3D12\Clases\resolucionejercicios\buclefor06\obj\Debug\netcoreapp2.1\buclefor06.dll
+D:\CodiGo backend\S3D12\Clases\resolucionejercicios\buclefor06\obj\Debug\netcoreapp2.1\buclefor06.pdb

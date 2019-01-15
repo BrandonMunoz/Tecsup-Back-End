@@ -1,0 +1,11 @@
+D:\CodiGo backend\S3D12\bucle12\obj\Debug\netcoreapp2.1\bucle12.csprojAssemblyReference.cache
+D:\CodiGo backend\S3D12\bucle12\obj\Debug\netcoreapp2.1\bucle12.csproj.CoreCompileInputs.cache
+D:\CodiGo backend\S3D12\bucle12\obj\Debug\netcoreapp2.1\bucle12.AssemblyInfoInputs.cache
+D:\CodiGo backend\S3D12\bucle12\obj\Debug\netcoreapp2.1\bucle12.AssemblyInfo.cs
+D:\CodiGo backend\S3D12\bucle12\bin\Debug\netcoreapp2.1\bucle12.deps.json
+D:\CodiGo backend\S3D12\bucle12\bin\Debug\netcoreapp2.1\bucle12.runtimeconfig.json
+D:\CodiGo backend\S3D12\bucle12\bin\Debug\netcoreapp2.1\bucle12.runtimeconfig.dev.json
+D:\CodiGo backend\S3D12\bucle12\bin\Debug\netcoreapp2.1\bucle12.dll
+D:\CodiGo backend\S3D12\bucle12\bin\Debug\netcoreapp2.1\bucle12.pdb
+D:\CodiGo backend\S3D12\bucle12\obj\Debug\netcoreapp2.1\bucle12.dll
+D:\CodiGo backend\S3D12\bucle12\obj\Debug\netcoreapp2.1\bucle12.pdb

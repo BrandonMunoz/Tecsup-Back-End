@@ -1,0 +1,10 @@
+D:\CodiGo backend\S3D12\bucle18\bin\Debug\netcoreapp2.1\bucle18.deps.json
+D:\CodiGo backend\S3D12\bucle18\bin\Debug\netcoreapp2.1\bucle18.runtimeconfig.json
+D:\CodiGo backend\S3D12\bucle18\bin\Debug\netcoreapp2.1\bucle18.runtimeconfig.dev.json
+D:\CodiGo backend\S3D12\bucle18\bin\Debug\netcoreapp2.1\bucle18.dll
+D:\CodiGo backend\S3D12\bucle18\bin\Debug\netcoreapp2.1\bucle18.pdb
+D:\CodiGo backend\S3D12\bucle18\obj\Debug\netcoreapp2.1\bucle18.csproj.CoreCompileInputs.cache
+D:\CodiGo backend\S3D12\bucle18\obj\Debug\netcoreapp2.1\bucle18.AssemblyInfoInputs.cache
+D:\CodiGo backend\S3D12\bucle18\obj\Debug\netcoreapp2.1\bucle18.AssemblyInfo.cs
+D:\CodiGo backend\S3D12\bucle18\obj\Debug\netcoreapp2.1\bucle18.dll
+D:\CodiGo backend\S3D12\bucle18\obj\Debug\netcoreapp2.1\bucle18.pdb
